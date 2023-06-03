@@ -1,2 +1,2 @@
 # li_excel_app
-![](".\fig\app_icon.png")
+![]("https://raw.githubusercontent.com/taomason/li_excel_app/master/fig/app_icon.png")
